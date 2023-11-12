@@ -1,0 +1,78 @@
+body {
+    background-color: floralwhite;
+    font-family:'Playfair Display', serif;
+   }
+.section{
+    font-family:'Playfair Display', serif;
+    border: 2px solid #000; 
+    padding: 20px; 
+    margin: 0 auto; 
+}
+
+
+.h1 {
+    font-family:'Playfair Display', serif;
+    text-align: center; 
+    color:#01353c;
+}
+
+
+.section ul {
+    font-family:'Playfair Display', serif;
+    list-style-type: none; 
+    padding: 0; 
+}
+
+
+.rsection li {
+    font-family:'Playfair Display', serif;
+    margin-bottom: 10px; 
+}
+
+
+h2{
+    font-family:'Playfair Display', serif;
+    color:#01353c; 
+}
+
+p{
+    font-size: 14pt;
+}
+
+
+.pedidos {
+    font-family:'Playfair Display', serif;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pedido {
+    font-family:'Playfair Display', serif;
+    width: 48%;
+    width: 30%;
+    text-align: center;
+}
+
+.pedido img {
+    max-width: 70%;
+    height: auto;
+}
+
+.pedido p {
+    font-size: 16px;
+    color: black;
+}
+
+.pedido span {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.pedido .btn {
+    background-color: #ffc107;
+    border: none;
+    color: white;
+    width: 100%;
+    height: auto;
+}
